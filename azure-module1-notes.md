@@ -73,4 +73,35 @@ A mix of private and public cloud. Keep sensitive data in your private cloud and
 - Cloud uses OpEx → only pay for what you use  
 - Flexible and fast → scale up or down anytime  
 - Saves money and time → no need to maintain servers or datacenters
+## High Availability and Scalability
+
+**High Availability:**  
+- App always works  
+- Azure guarantees uptime (SLA)
+
+**Scalability:**  
+- Adjust resources based on demand  
+- **Vertical scaling:** make resources stronger or weaker (CPU/RAM)  
+- **Horizontal scaling:** add or remove more resources (VMs/containers)
+
+**Benefits:**  
+- Users get smooth service  
+- Save money by paying only for what you use
+## Reliability, Predictability, Performance, and Cost
+
+**Reliability:**  
+- Keeps working even if something breaks  
+- Cloud is decentralized and can auto-move resources
+
+**Predictability:**  
+- Helps plan performance and cost
+
+**Performance:**  
+- Autoscaling  
+- Load balancing  
+- High availability (HA)
+
+**Cost:**  
+- Track, analyze, and forecast using tools
+
 
