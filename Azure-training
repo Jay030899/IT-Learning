@@ -100,8 +100,51 @@ A mix of private and public cloud. Keep sensitive data in your private cloud and
 - Autoscaling  
 - Load balancing  
 - High availability (HA)
+## Topic: Security & Governance
+
+### Governance
+- Use templates, auditing, and automatic updates to stay compliant.
+
+### Security
+- With **IaaS**, you manage most of the security, so you get maximum control.  
+- With **PaaS** and **SaaS**, the provider takes care of updates and security.  
+- Cloud platforms also protect against big threats like DDoS attacks.
+
+### Benefit
+- You get a cloud environment that’s secure, compliant, and well-managed without doing all the heavy lifting yourself.
+
 
 **Cost:**  
 - Track, analyze, and forecast using tools
+## Topic: Cloud Management
+
+### Management **of** the cloud  
+- The cloud comes with built-in automation tools.  
+- Examples: autoscaling, templates, monitoring, and alerts.  
+- These tools handle the heavy lifting for you so things run smoothly.  
+
+### Management **in** the cloud  
+- This is how you actually control and manage resources yourself.  
+- Options include:  
+  - Azure Portal (web interface)  
+  - Command Line Interface (CLI)  
+  - APIs  
+  - PowerShell  
+## Azure = More Than Just Renting Servers
+
+Azure isn’t only about hosting servers — it’s a full platform:
+
+-  **Innovation Platform**  
+  Supports AI, Machine Learning, and automation to build smarter apps.
+
+-  **Global Scale**  
+  Fast, reliable, and secure infrastructure across Microsoft’s worldwide datacenters.
+
+-  **Trusted & Secure**  
+  Backed by Microsoft’s compliance standards and enterprise-grade security.
+
+-  **Flexible**  
+  Use your choice of tools, languages, and frameworks.
+
 
 
